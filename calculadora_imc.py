@@ -3,7 +3,6 @@ import func_calc as func
 import func_sugs as func_sugs
 
 # Layout da Janela
-
 sg.theme('DarkAmber')
 layout = [
     [sg.Text("Calculadora de IMC e Saúde", font=("Helvetica", 16))],
